@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+RewriteEngine On
+RewriteRule ^([0-9A-Za-z-_]+)$ /$1.html
+=======
+RewriteEngine On
+RewriteRule ^([0-9A-Za-z-_]+)$ /$1.html
+>>>>>>> 2810e0ed9b2c8821ea416d8f62715eb31cc981c1
